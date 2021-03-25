@@ -1,11 +1,16 @@
 _repo: La-donna-e-i-suoi-rapporti-sociali_64899
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64899-h/images/cover.jpg
 creator:
   author:
     agent_name: Mozzoni, Anna Maria
     gutenberg_agent_id: '53089'
     url: http://www.gutenberg.org/2009/agents/53089
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64899#La-donna-e-i-suoi-rapporti-sociali
 gutenberg_issued: '2021-03-21'
 gutenberg_type: Text
 identifiers:
